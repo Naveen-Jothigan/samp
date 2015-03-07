@@ -1,0 +1,35 @@
+body{
+    width: 980px;
+    margin: 0 auto;
+    padding: 0px;
+    
+}
+
+.main{
+width: 100%;
+margin: 0 auto;
+float: left;
+background-color: #009DD2;
+}
+.tablediv1 {
+    width: 20%;
+    float: left;
+   
+    
+    
+    
+}
+
+/*.tablediv{
+    width: 100%;
+    float: left;
+    padding: 0px;
+    margin: 0 auto;
+    
+}*/
+.tablediv1{
+    width: 100%;
+   
+    padding: 0px;
+    margin: 0 auto;
+}
